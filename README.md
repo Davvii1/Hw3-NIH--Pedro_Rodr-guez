@@ -2,4 +2,4 @@
 Nearest Insertion Heuristic solution implemented in Python
 
 Here's an example of Nearest Insertion Heuristic applied to solve a problem with stablish data in Python
-Jupyter NoteBook is presented in [Nearest Insertion Heuristic.ipynb](NIH.ipynb)
+Jupyter NoteBook presented in [Nearest Insertion Heuristic.ipynb](NIH.ipynb)
